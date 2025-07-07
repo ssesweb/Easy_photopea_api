@@ -1,0 +1,11 @@
+{
+    "photopea_api": {
+        "endpoint": "http://192.168.110.13:8887/",
+        "timeout": 30000
+    }
+,
+    "comfyui_api": {
+        "endpoint": "http://192.168.110.13:8188/",
+        "timeout": 30000
+    }
+}
