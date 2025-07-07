@@ -1,0 +1,2 @@
+# Easy_photopea_api
+一个简易的photopea的api实现
